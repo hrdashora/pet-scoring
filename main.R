@@ -1,3 +1,7 @@
+# This is the 'main' script in the PET assessment analysis codebase
+# All packages and helper functions will be imported/called from this script
+
+# Import packages
 library(dplyr)
 
 # Import raw data from '.csv' file
